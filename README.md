@@ -2,7 +2,7 @@
 ## using package 'stripe-client'
 #### 2020-01-09
 
-The package 'stripe-client' is (here)[https://www.npmjs.com/package/stripe-client].
+The package 'stripe-client' is [here](https://www.npmjs.com/package/stripe-client).
 
 It looks this package can do 3 things:
 1. convert Credit Card info to Stripe token.
